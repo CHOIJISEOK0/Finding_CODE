@@ -1,5 +1,5 @@
 # READ FILE
-with open("code.txt", "r") as f:
+with open("QUIZ.txt", "r") as f:
     data = f.read()
 
 # CUT SENTENCES
