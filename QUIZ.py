@@ -10,7 +10,7 @@ result = []
 word = "improve"
 for y in range(len(a)):
     for x in range(len(a[0])):
-        # a 가 있는 위치 찾기
+        # FIND "A" LOCATION
         if a[y][x] == word[0]:
             # RIGHT
             check = True
